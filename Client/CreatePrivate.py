@@ -1,0 +1,2 @@
+from ClientMain import *
+createPrivate()
